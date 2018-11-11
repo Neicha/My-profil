@@ -1,0 +1,166 @@
+/* Colors and fonts*/
+
+
+body {
+	background: #edfffa;
+	color: #ca431d;
+	font-family: 'Poor Story', cursive;
+	font-size: 17px;
+}
+
+body {
+  font-size: 25px;
+	line-height: 1;
+	letter-spacing: 1px;
+ 	text-align: justify;
+	text-decoration: none;
+}
+
+h2 {
+     color: #1e2a78
+
+}
+
+
+h3, h5 {
+	font-family: 'Indie Flower', cursive;
+}
+
+
+h3, h4 {
+	color: #ffe37f ;
+	font-size:25px;
+}
+
+h4 {
+
+	font-family: 'Spicy Rice', cursive;
+	font-size:25px
+}
+
+
+h5  {
+
+	color: #144c52;
+	font-size:20px
+
+}
+
+h6 {
+	
+	font-family: 'Bangers', cursive;
+	font-size: 25px
+}
+
+
+
+p{
+	
+	font-family: 'Patrick Hand', cursive;;
+	font-size: 25px
+	
+}
+
+p{
+   color: #ca431d;
+
+}
+a {
+	font-family: 'Spicy Rice', cursive;
+	text-decoration: none;
+	color: #1e2a78
+	
+		
+}
+
+a:hover {
+	color: #ffe37f
+}
+
+ul{
+	font-family:'Indie Flower', cursive;
+	text-decoration: none;
+	color: #326765
+}
+
+
+
+.text-center {
+  text-align: center;
+}
+
+
+/* Colors and fonts*/
+
+.container {
+	width: 900px;
+	margin: 90px
+}
+
+.img-circle {
+  border-radius: 90%;
+}
+
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+background: #74b49b;                         
+padding: 3,5px;                             
+border-radius: 4px;                       
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+
+
+
+
+#logo { <img src="images/IMG_0266.jpg" id="logo">
+  width: 10px;
+}   
+.img-circle {
+  border-radius: 50%%;
+}
+.img-bordered {
+  border: 10px solid #0f117a;
+  width: 250px;
+	height: 110px;
+	border-radius: 90%;
+}
+.container{
+
+	width: 700px
+	margin: auto;
+}
+
+
+
+.img-bordered {
+    border: 10px solid #0f117a;
+    width: 250px;
+    height: 250px;
+    border-radius: 90%;
+}
+
+div{
+	 padding: 25px 50px;
+	margin: 85px 30px 85px 30px;
+    border: #0f117a;
+    border-radius: 4px;
+    box-shadow: -2px 7px 30px 2px #79b59e;
+
+    }
+
+
+    h1 {
+    display: block;
+    font-size: 2em;
+    margin: auto;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
