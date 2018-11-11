@@ -12,7 +12,7 @@ body {
   font-size: 25px;
 	line-height: 1;
 	letter-spacing: 1px;
- 	text-align: justify;
+ 	text-align: center;
 	text-decoration: none;
 }
 
@@ -30,12 +30,14 @@ h3, h5 {
 h3, h4 {
 	color: #ffe37f ;
 	font-size:25px;
+
 }
 
 h4 {
-
+    
 	font-family: 'Spicy Rice', cursive;
 	font-size:25px
+
 }
 
 
@@ -98,7 +100,7 @@ ul{
 }
 
 .img-circle {
-  border-radius: 90%;
+  border-radius: 50%;
 }
 
 }
@@ -110,6 +112,8 @@ background: #74b49b;
 padding: 3,5px;                             
 border-radius: 4px;                       
 box-shadow: 0 10px 30px rgba(0,0,0,.1);
+margin: 20px 0px
+
 }
 
 
